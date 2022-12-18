@@ -1,8 +1,6 @@
 <h1 align="center">Hi all👋, I'm Harshit Kumar Ravi</h1>
 <h3 align="center">A passionate web developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hkravi18&label=Profile%20views&color=0e75b6&style=flat" alt="hkravi18" /> </p>
-
 - 📫 How to reach me **hkravi18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
